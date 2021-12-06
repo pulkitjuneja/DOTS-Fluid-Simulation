@@ -705,7 +705,7 @@ MonoBehaviour:
     type: 3}
   EnvColliderPrefab: {fileID: 6686707022571009528, guid: d18bb530b47efb240b05d076e3c58c48,
     type: 3}
-  count: 4000
+  count: 8000
 --- !u!4 &1393989205
 Transform:
   m_ObjectHideFlags: 0
